@@ -1,4 +1,4 @@
-# WNBA We Need Fic: The Archives
+# WNBA Fic Bot: The Archives
 
 ## Sort of.
 
